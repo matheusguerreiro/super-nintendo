@@ -1,0 +1,40 @@
+@import '../../sass/index.sass'
+
+.home
+  flex: 1
+  background-color: #FFF
+  display: flex
+  flex-direction: column
+  align-items: center
+  padding: 32px 0
+  gap: 32px
+
+  .snesConsole
+    padding: 0 77px
+
+    @include tablet
+      padding: 0 38.5px
+
+    .snesConsoleLogo
+      background-color: #FFF
+      width: 100%
+      height: auto
+      padding: 16px
+      border: 1px solid $snesConsole
+      border-radius: 4px
+      box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16)
+
+  .sfcConsole
+    padding: 0 62px
+
+    @include tablet
+      padding: 0 31px
+
+    .sfcConsoleLogo
+      background-color: #FFF
+      width: 100%
+      height: auto
+      padding: 16px
+      border: 1px solid $snesConsole
+      border-radius: 8px
+      box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16)

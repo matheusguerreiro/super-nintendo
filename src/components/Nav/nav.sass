@@ -1,0 +1,40 @@
+@import "../../sass/index.sass"
+
+.nav
+  background-color: #000
+  height: auto
+  display: flex
+  flex-direction: row
+  justify-content: center
+  align-items: center
+  padding: 8px 8px 4px
+  border-bottom: 2px solid $snesConsole
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16)
+
+  a
+    display: flex
+    flex-direction: column
+    align-items: center
+    gap: 4px
+    height: 100%
+    width: 128px
+    text-decoration: none
+
+    .char
+      height: 64px
+
+    .label
+      width: fit-content
+      border-radius: 4px
+      color: $snesConsole
+      text-transform: uppercase
+      font-weight: 700
+      transition: color 0.25s
+
+  a:hover
+  &
+    cursor: pointer
+
+  .active
+    .label
+      color: $snesLogo

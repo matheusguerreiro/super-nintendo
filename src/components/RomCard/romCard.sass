@@ -1,0 +1,91 @@
+@import "../../sass/index.sass"
+
+.romCard
+  display: flex
+  width: 402px
+  height: auto
+  border-radius: 4px
+  border: 1px solid transparent
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16)
+  transition: box-shadow .12s, border .12s
+  cursor: pointer
+
+  .front
+    border-radius: 4px
+    width: 100%
+    height: auto
+
+  &:hover
+    border: 1px solid $snesConsole
+    box-shadow: 0 2px 5px 0 $snesConsole
+
+  .background
+    display: flex
+    align-items: center
+    justify-content: center
+    background-color: #000c
+    position: fixed
+    top: 0
+    left: 0
+    width: 100%
+    height: 100%
+    padding: 16px
+
+    .container
+      display: flex
+      height: 100%
+      overflow: hidden
+      position: relative
+      border: 1px solid $snesConsole
+      box-shadow: 0 2px 5px 0 $snesConsole
+
+      @include tablet
+        height: auto
+        width: 100%
+
+      .back
+        height: 100%
+        object-fit: contain
+
+        @include tablet
+          height: auto
+          width: 100%
+
+      .buttons
+        display: flex
+        flex-direction: column
+        align-items: center
+        justify-content: center
+        height: 19%
+        width: 19%
+        background-color: #0007
+        border-radius: 4px
+        position: absolute
+        left: 1%
+        bottom: 1%
+        gap: 10px
+
+        .buttonTraduzir
+          font-family: 'nintendo'
+          display: flex
+          justify-content: center
+          align-items: center
+          padding: 5px 10px 1px
+          background-color: #FFF
+          border: 4px solid $snesConsole
+          color: $fmcYellow
+          text-decoration: none
+          // font-weight: 700;
+          font-size: 20px
+          text-transform: capitalize
+          border-radius: 64px
+          transition: background-color .06s, border .06s, color .06s
+
+        .buttonDownload
+          @extend .buttonTraduzir
+          color: $sfcPower
+
+          &:hover
+            color: $fmcGreen
+            background-color: $snesControllerStartSelect
+            border-color: $fmcGreen

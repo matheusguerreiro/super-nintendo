@@ -1,0 +1,58 @@
+@import "../../sass/index.sass"
+
+.form
+  display: flex
+  flex-direction: column
+  gap: 32px
+
+  .labelsInputs
+    display: flex
+    gap: 8px
+
+    .labels
+      display: flex
+      font-weight: bold
+      font-size: 16px
+      gap: 8px
+      color: $fmcYellow
+      flex-direction: column
+      justify-content: space-around
+
+    .inputs
+      display: flex
+      flex-direction: column
+      gap: 8px
+      width: 100%
+
+      .id
+        padding: 4px
+        font-size: 16px
+        font-weight: bold
+        color: $fmcGreen
+
+      input
+        border-radius: 4px
+        padding: 4px 8px 4px 10px
+        font-size: 16px
+
+  .submit
+    background-color: $snesControllerStartSelect
+    padding: 8px 12px
+    font-weight: 700
+    font-size: 16px
+    color: $snesConsole
+    border: 2px solid $snesConsole
+    border-radius: 8px
+    text-transform: uppercase
+    text-align: center
+    text-decoration: none
+    transition: background-color .12s, border .12s, color .12s
+    cursor: pointer
+
+    &:hover
+      color: $fmcGreen
+      border-color: $fmcGreen
+
+    &:disabled
+      color: $fmcRed
+      border-color: $fmcRed
