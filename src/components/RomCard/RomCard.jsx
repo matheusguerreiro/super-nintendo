@@ -29,7 +29,7 @@ const RomCard = ({ rom }) => {
           <div className="container">
             <img
               onClick={handleClick}
-              src={rom.back}
+              src={rom.game}
               alt={rom.title}
               className="back"
             />

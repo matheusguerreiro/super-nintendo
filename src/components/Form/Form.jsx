@@ -7,8 +7,7 @@ const Form = ({ onCreateRom }) => {
     id: uuid(),
     title: "",
     front: "",
-    back: "",
-    mobile: "",
+    game: "",
     rom: "",
   });
 
@@ -26,8 +25,7 @@ const Form = ({ onCreateRom }) => {
       id: newRom.id,
       title: newRom.title.trim(),
       front: transformLink(newRom.front),
-      back: transformLink(newRom.back),
-      mobile: transformLink(newRom.mobile),
+      game: transformLink(newRom.game),
       rom: transformLink(newRom.rom),
     };
 
@@ -37,8 +35,7 @@ const Form = ({ onCreateRom }) => {
       id: uuid(),
       title: "",
       front: "",
-      back: "",
-      mobile: "",
+      game: "",
       rom: "",
     });
   };
@@ -62,8 +59,7 @@ const Form = ({ onCreateRom }) => {
           <label>id:</label>
           <label>title:</label>
           <label>front:</label>
-          <label>back:</label>
-          <label>mobile:</label>
+          <label>game:</label>
           <label>rom:</label>
         </div>
         <div className="inputs">
@@ -82,14 +78,8 @@ const Form = ({ onCreateRom }) => {
           />
           <input
             type="text"
-            name="back"
-            value={newRom.back}
-            onChange={handleChange}
-          />
-          <input
-            type="text"
-            name="mobile"
-            value={newRom.mobile}
+            name="game"
+            value={newRom.game}
             onChange={handleChange}
           />
           <input
