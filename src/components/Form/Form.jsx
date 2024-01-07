@@ -9,6 +9,7 @@ const Form = ({ onCreateRom }) => {
     front: "",
     game: "",
     rom: "",
+    region: ""
   });
 
   const isFormValid = Object.values(newRom).every((value) => value !== "");
@@ -27,6 +28,7 @@ const Form = ({ onCreateRom }) => {
       front: transformLink(newRom.front),
       game: transformLink(newRom.game),
       rom: transformLink(newRom.rom),
+      region: newRom.region
     };
 
     onCreateRom(rom);
@@ -37,6 +39,7 @@ const Form = ({ onCreateRom }) => {
       front: "",
       game: "",
       rom: "",
+      region: ""
     });
   };
 
@@ -61,6 +64,7 @@ const Form = ({ onCreateRom }) => {
           <label>front:</label>
           <label>game:</label>
           <label>rom:</label>
+          <label>region:</label>
         </div>
         <div className="inputs">
           <div className="id">{newRom.id}</div>
@@ -88,6 +92,16 @@ const Form = ({ onCreateRom }) => {
             value={newRom.rom}
             onChange={handleChange}
           />
+          <select
+            value={newRom.region}
+            onChange={handleChange}
+            name="region"
+          >
+            <option value="">...</option>
+            <option value="US">US</option>
+            <option value="EU">EU</option>
+            <option value="JP">JP</option>
+          </select>
         </div>
       </div>
 
