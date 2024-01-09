@@ -80,14 +80,6 @@
     "region": "US"
   },
   {
-    "id": "a72ad462-6674-5b7c-08d8-236736cc08f2",
-    "title": "Super Bomberman 5",
-    "front": "https://drive.google.com/uc?export=download&id=1Udvcqb-5AcKYo9p0TuHYor_V_SjEbjaP",
-    "game": "https://drive.google.com/uc?export=download&id=1hVU35ZQSwMHXODCFvbQ8VdniBZz9Vtuy",
-    "rom": "https://drive.google.com/uc?export=download&id=11JvmMz-WKx-cSuLQT4FePPy8ropSfz8P",
-    "region": "JP"
-  },
-  {
     "id": "045a71b2-96f4-17d8-7bfb-82d7f0f74d12",
     "title": "Final Fantasy V",
     "front": "https://drive.google.com/uc?export=download&id=199kVKWEfPEsjccahAXsKsTKjqUAt0sX5",
@@ -134,5 +126,29 @@
     "game": "https://drive.google.com/uc?export=download&id=1tYd-e9gDp-CULovLCjhJA-MFwJNlVjIl",
     "rom": "https://drive.google.com/uc?export=download&id=1D10lHDxgEWmvcbemS5RK_eMuppaG1piO",
     "region": "US"
+  },
+  {
+    "id": "1b817be3-0455-2778-c0ef-13240b54f3f7",
+    "title": "Aladdin",
+    "front": "https://drive.google.com/uc?export=download&id=1fFbKAyvVelCFVvXvWvOzgScZDW-wT6s2",
+    "game": "https://drive.google.com/uc?export=download&id=1v_ee7Uh9rhn3ZB2qOd3IotnjUi3Bpego",
+    "rom": "https://drive.google.com/uc?export=download&id=1S50qHwESakKJCHHE0AYpsbi05lK20kEf",
+    "region": "US"
+  },
+  {
+    "id": "af6ff215-488a-434a-912e-2549fbcfd0b6",
+    "title": "Mega Man X 3",
+    "front": "https://drive.google.com/uc?export=download&id=1aRSfH6BtSs3zjdK4hd1UaYsnaXwE5EeW",
+    "game": "https://drive.google.com/uc?export=download&id=1HRc-AGdaTA8tyAC7FW9nVAc8Axlo2vge",
+    "rom": "https://drive.google.com/uc?export=download&id=1CxVwgkWumnHKtvAo0jFK4W1EeXlWH0vJ",
+    "region": "US"
+  },
+  {
+    "id": "a72ad462-6674-5b7c-08d8-236736cc08f2",
+    "title": "Super Bomberman 5",
+    "front": "https://drive.google.com/uc?export=download&id=1Udvcqb-5AcKYo9p0TuHYor_V_SjEbjaP",
+    "game": "https://drive.google.com/uc?export=download&id=1hVU35ZQSwMHXODCFvbQ8VdniBZz9Vtuy",
+    "rom": "https://drive.google.com/uc?export=download&id=11JvmMz-WKx-cSuLQT4FePPy8ropSfz8P",
+    "region": "JP"
   }
 ]
