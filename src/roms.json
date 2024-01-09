@@ -78,5 +78,61 @@
     "game": "https://drive.google.com/uc?export=download&id=1olymg12UN-KzUs14UKsSAVWNA82FpU2F",
     "rom": "https://drive.google.com/uc?export=download&id=15Eh65jnq6d0j05nQWKzowbsDVrRpuDxH",
     "region": "US"
+  },
+  {
+    "id": "a72ad462-6674-5b7c-08d8-236736cc08f2",
+    "title": "Super Bomberman 5",
+    "front": "https://drive.google.com/uc?export=download&id=1Udvcqb-5AcKYo9p0TuHYor_V_SjEbjaP",
+    "game": "https://drive.google.com/uc?export=download&id=1hVU35ZQSwMHXODCFvbQ8VdniBZz9Vtuy",
+    "rom": "https://drive.google.com/uc?export=download&id=11JvmMz-WKx-cSuLQT4FePPy8ropSfz8P",
+    "region": "JP"
+  },
+  {
+    "id": "045a71b2-96f4-17d8-7bfb-82d7f0f74d12",
+    "title": "Final Fantasy V",
+    "front": "https://drive.google.com/uc?export=download&id=199kVKWEfPEsjccahAXsKsTKjqUAt0sX5",
+    "game": "https://drive.google.com/uc?export=download&id=1hszC-BmUxaAsftj9j8QGvOCCt5RlXfgX",
+    "rom": "https://drive.google.com/uc?export=download&id=1yGmpdwF5ZDBku7WCbXdAgAwohX-LW8Gn",
+    "region": "US"
+  },
+  {
+    "id": "2768b958-e469-a2fb-7928-8e0dd967b0c8",
+    "title": "Donkey Kong Country 2 - Diddy's Kong Quest",
+    "front": "https://drive.google.com/uc?export=download&id=1yEjeUQLh0JTpUHT_ixwnBXwWFOI7cbSs",
+    "game": "https://drive.google.com/uc?export=download&id=1mjPARK-S0lYnfdD-tDcQ6UNOYuWnGpWb",
+    "rom": "https://drive.google.com/uc?export=download&id=1VMO9-XrTi5a0_js-W4wjScWsnNERI5Kj",
+    "region": "US"
+  },
+  {
+    "id": "870a0722-a180-ed05-607f-d51ef3673234",
+    "title": "Contra III - The Alien Wars",
+    "front": "https://drive.google.com/uc?export=download&id=1c60ci_C1oq1MFuaDUHrmjwl9Nbsl1S6x",
+    "game": "https://drive.google.com/uc?export=download&id=16bCqy4Q9eFOD8QnPk2gxO4ektBCgj5Tm",
+    "rom": "https://drive.google.com/uc?export=download&id=1EzOC7niGTHB1KCFPpOnMUcOlGS2aEo3j",
+    "region": "US"
+  },
+  {
+    "id": "eec9c44e-8d5a-c4e9-9dfa-e96aeb063144",
+    "title": "Teenage Mutant Ninja Turtles IV - Turtles in Time",
+    "front": "https://drive.google.com/uc?export=download&id=1YjifPCK23N8r1A3MXC0Tg41_PhGbcWuK",
+    "game": "https://drive.google.com/uc?export=download&id=1NQusxQy17QvcbIa3AortmvB3dK0rknyS",
+    "rom": "https://drive.google.com/uc?export=download&id=1m5PA8f0bXnG6IaAOTYC4VBrXRpSW5c2r",
+    "region": "US"
+  },
+  {
+    "id": "7838a808-34a3-70c4-369c-ead26d60c007",
+    "title": "Final Fantasy III",
+    "front": "https://drive.google.com/uc?export=download&id=1Uxg9CyzuRkaqx07ko6zAYHqKxeUT0gO5",
+    "game": "https://drive.google.com/uc?export=download&id=1hnPs9DxUobb9Mj5Le9OY623SmDWDEyVA",
+    "rom": "https://drive.google.com/uc?export=download&id=1OnN7k8V8I2f1l9MhSLjYtCh53iEFldV-",
+    "region": "US"
+  },
+  {
+    "id": "12586d93-095c-91cd-fb6b-0cce01a2d4d4",
+    "title": "Mortal Kombat 3",
+    "front": "https://drive.google.com/uc?export=download&id=1Uu8Ee8gwF2I8AV0U3XziH00D_PyjVT28",
+    "game": "https://drive.google.com/uc?export=download&id=1tYd-e9gDp-CULovLCjhJA-MFwJNlVjIl",
+    "rom": "https://drive.google.com/uc?export=download&id=1D10lHDxgEWmvcbemS5RK_eMuppaG1piO",
+    "region": "US"
   }
 ]
