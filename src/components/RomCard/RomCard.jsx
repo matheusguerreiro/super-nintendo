@@ -1,18 +1,18 @@
 import React, { useState } from "react";
 import "./romCard.sass";
-import { useOthersContext } from "../../hooks";
+// import { useOthersContext } from "../../hooks";
 
 const RomCard = ({ rom }) => {
   const [back, setBack] = useState(false);
-  const { setRomsFixed, setRomsScrollY } = useOthersContext();
+  // const { setRomsFixed, setRomsScrollY } = useOthersContext();
 
-  window.addEventListener("scroll", () => {
-    setRomsScrollY(window.scrollY);
-  });
+  // window.addEventListener("scroll", () => {
+  //   setRomsScrollY(window.scrollY);
+  // });
 
   const handleClick = () => {
     setBack(!back);
-    setRomsFixed(!back);
+    // setRomsFixed(!back);
   };
 
   return (
@@ -31,7 +31,7 @@ const RomCard = ({ rom }) => {
               onClick={handleClick}
               src={rom.game}
               alt={rom.title}
-              className="back"
+              className="game"
             />
             <div className="buttons">
               {/* <a href="#" className="buttonTraduzir">
