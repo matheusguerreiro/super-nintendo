@@ -25,8 +25,8 @@ const Form = ({ onCreateRom }) => {
     let rom = {
       id: newRom.id,
       title: newRom.title.trim(),
-      front: transformLink(newRom.front),
-      game: transformLink(newRom.game),
+      front: newRom.front.trim(),
+      game: newRom.game.trim(),
       rom: transformLink(newRom.rom),
       region: newRom.region
     };
