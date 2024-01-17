@@ -240,6 +240,30 @@
     "region": "US"
   },
   {
+    "id": "b1192d32-8229-92ba-f283-472030391437",
+    "title": "Super Street Fighter II - The New Challengers",
+    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212146&authkey=%21ANvrxARWxI5uUBs&width=768&height=557",
+    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212147&authkey=%21ADCTlstzOeCHDJA&width=891&height=1024",
+    "rom": "https://drive.google.com/uc?export=download&id=1K3P9osHEoPW-VD0jbOqVJNsUSjtA5z-D",
+    "region": "US"
+  },
+  {
+    "id": "4f4b63e4-c9a9-2c02-7070-d9539bb4a08c",
+    "title": "Castlevania - Dracula X",
+    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212143&authkey=%21ACnjtXLFOLrG7S8&width=768&height=557",
+    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212144&authkey=%21ABUJ4cWri-m3Fbo&width=891&height=1024",
+    "rom": "https://drive.google.com/uc?export=download&id=1etv3FZlGm-ShvExpLzW7614vQtkpcgjI",
+    "region": "US"
+  },
+  {
+    "id": "646cca4f-4858-e497-d325-54384acc7414",
+    "title": "Earthbound",
+    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212149&authkey=%21AHya3vA9A4_tSdI&width=768&height=557",
+    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212148&authkey=%21ABH7XvVskO3rVyk&width=891&height=1024",
+    "rom": "https://drive.google.com/uc?export=download&id=1Sos5GZCpeNSxuDWsdU9LvH0m_MghE7Vi",
+    "region": "US"
+  },
+  {
     "id": "a72ad462-6674-5b7c-08d8-236736cc08f2",
     "title": "Super Bomberman 5",
     "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212100&authkey=%21AEM9Aui13KDydvo&width=768&height=1402",
@@ -253,6 +277,14 @@
     "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212128&authkey=%21AO26SA3niT_QrFQ&width=768&height=1402",
     "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212129&authkey=%21ADKgfwijK2I134s&width=738&height=1024",
     "rom": "https://drive.google.com/uc?export=download&id=1q2Ag6UQHdmosWL_YNdunnnii9o_O0YAY",
+    "region": "JP"
+  },
+  {
+    "id": "139f8e6f-de3d-8b94-8f50-482845eaefc0",
+    "title": "Dragon Quest I & II",
+    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212142&authkey=%21AD0iWXte-hN4cG8&width=768&height=1052",
+    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212145&authkey=%21ADhdzGWlba60io0&width=645&height=1024",
+    "rom": "https://drive.google.com/uc?export=download&id=1hk4ZWaj5RgaGdIzDauGkT13WBH_rxERL",
     "region": "JP"
   }
 ]
