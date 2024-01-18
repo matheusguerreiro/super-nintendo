@@ -280,6 +280,30 @@
     "region": "US"
   },
   {
+    "id": "d8e2bc92-2f85-7f0e-2386-db8d66906adc",
+    "title": "Sunset Riders",
+    "front": "images/roms/SunsetRiders_front.jpg",
+    "game": "images/roms/SunsetRiders_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1gJmO8_oy68c1A8AbcUTl7AGDpidYHM98",
+    "region": "US"
+  },
+  {
+    "id": "721f15f6-250b-3cd6-260c-e752a3898db7",
+    "title": "Super Ghouls 'N Ghosts",
+    "front": "images/roms/SuperGhoulsNGhosts_front.jpg",
+    "game": "images/roms/SuperGhoulsNGhosts_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1mjYSW6ejg6RulUzfn52FA_xnstCIG1Ro",
+    "region": "US"
+  },
+  {
+    "id": "5892cc4a-efd6-8939-3d4d-5c1473810b3b",
+    "title": "Super Bomberman 3",
+    "front": "images/roms/SuperBomberman3_front.jpg",
+    "game": "images/roms/SuperBomberman3_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=10kyI68XvyxEfS2GrA1L-R6nxae3d3xt_",
+    "region": "US"
+  },
+  {
     "id": "a72ad462-6674-5b7c-08d8-236736cc08f2",
     "title": "Super Bomberman 5",
     "front": "images/roms/SuperBomberman5_front.jpg",
@@ -317,6 +341,14 @@
     "front": "images/roms/DragonBallZSuperSaiyaDensetsu_front.jpg",
     "game": "images/roms/DragonBallZSuperSaiyaDensetsu_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1vgrLPi4Q6-igbKXdr6XNI5BlghUcYPuI",
+    "region": "JP"
+  },
+  {
+    "id": "74b751ee-086e-d5ed-2c4d-085b6d6f7b9d",
+    "title": "Dragon Quest VI - Maboroshi no Daichi",
+    "front": "images/roms/DragonQuestVIMaboroshinoDaichi_front.jpg",
+    "game": "images/roms/DragonQuestVIMaboroshinoDaichi_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1au63T-bHidd1wd_Z4Xv7s48Dk3YDnvA5",
     "region": "JP"
   }
 ]
