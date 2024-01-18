@@ -2,289 +2,305 @@
   {
     "id": "d9eb141d-573a-b38a-794e-985a039d96e9",
     "title": "Super Mario World",
-    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212105&authkey=%21ACbYl4o2oWj8_I4&width=768&height=557",
-    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212101&authkey=%21AE-s67MWuUPXRbU&width=891&height=1024",
+    "front": "images/roms/SuperMarioWorld_front.jpg",
+    "game": "images/roms/SuperMarioWorld_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1OlfPMpfH4CoWpM1VrSEOm_vW2nrprGlG",
     "region": "US"
   },
   {
     "id": "aeae419a-b07a-5a71-ff10-6c91ea31d25e",
     "title": "Super Mario All-Stars",
-    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212108&authkey=%21APxioWHajlc2zSU&width=768&height=557",
-    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212088&authkey=%21ANoch0QugEDfGGo&width=891&height=1024",
+    "front": "images/roms/SuperMarioAllStars_front.jpg",
+    "game": "images/roms/SuperMarioAllStars_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1JzK0ZSYz6-5gRbst2REVh7vWcVQcKpAk",
     "region": "US"
   },
   {
     "id": "40c9c540-6592-ecd0-0064-b6aec35428b9",
     "title": "Super Mario Kart",
-    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212085&authkey=%21ABbbpm4VglXucGI&width=768&height=557",
-    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212114&authkey=%21AG-O_F4NKMs08TE&width=891&height=1024",
+    "front": "images/roms/SuperMarioKart_front.jpg",
+    "game": "images/roms/SuperMarioKart_front.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1jbLMeYrdI2v5NvVLblO5uCXCrw1EOI9T",
     "region": "US"
   },
   {
     "id": "8bb5df78-9caf-335f-e2e7-59446512a1f5",
     "title": "Mega Man X",
-    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212115&authkey=%21AMhJKlYwsKtIDQc&width=768&height=557",
-    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212112&authkey=%21AHilkkwBDovPW_I&width=891&height=1024",
+    "front": "images/roms/MegaManX_front.jpg",
+    "game": "images/roms/MegaManX_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1FbunRFQCQMxM1qkSwazxHVN-QVAx62dx",
     "region": "US"
   },
   {
     "id": "90ca1518-df5d-0ea0-0644-f468e0646211",
     "title": "Donkey Kong Country",
-    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212107&authkey=%21AIdqL1YLZYqDHnE&width=768&height=557",
-    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212086&authkey=%21ANpWx5DQtt3JNPs&width=891&height=1024",
+    "front": "images/roms/DonkeyKongCountry_front.jpg",
+    "game": "images/roms/DonkeyKongCountry_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1m6eO13dsvWD8lcdMUpdUJOFs06kCj6P-",
     "region": "US"
   },
   {
     "id": "7a534368-46c6-f0de-0055-0264881f0d9d",
     "title": "Legend of Zelda, The - A Link to the Past",
-    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212111&authkey=%21AMsVPD_vdop79c0&width=768&height=557",
-    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212109&authkey=%21AJ_om1d-jwWjnic&width=891&height=1024",
+    "front": "images/roms/LegendofZeldaTheALinktothePast_front.jpg",
+    "game": "images/roms/LegendofZeldaTheALinktothePast_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1mgskeisqEfBvtHmM2oRSt9FE0xHavRpE",
     "region": "US"
   },
   {
     "id": "2065113e-0fe3-1eb2-7b2e-02d87b40ba52",
     "title": "Super Metroid",
-    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212079&authkey=%21AM65Qop2vStJyzA&width=768&height=557",
-    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212080&authkey=%21ALN7iaYgqgwflZI&width=891&height=1024",
+    "front": "images/roms/SuperMetroid_front.jpg",
+    "game": "images/roms/SuperMetroid_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1_IfqkOzb7YzhUj81ga9rO2bWh_3byaGC",
     "region": "US"
   },
   {
     "id": "4d834afe-4214-76f7-e7c4-4ae7055631c7",
     "title": "Street Fighter II Turbo",
-    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212113&authkey=%21AAGZc2hIyKG74MI&width=768&height=557",
-    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212104&authkey=%21ADUqh6RUKHBkq_g&width=891&height=1024",
+    "front": "images/roms/StreetFighterIITurbo_front.jpg",
+    "game": "images/roms/StreetFighterIITurbo_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1tT1u7Asssu-Blt2o5VAamMTsxWU92p20",
     "region": "US"
   },
   {
     "id": "49eb9ee4-c259-3332-6920-a7c02428ab77",
     "title": "Chrono Trigger",
-    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212094&authkey=%21AG-KrMpcfeQ_KDM&width=768&height=557",
-    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212103&authkey=%21AFKlIdF1FXSAHBg&width=1040&height=740",
+    "front": "images/roms/ChronoTrigger_front.jpg",
+    "game": "images/roms/ChronoTrigger_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1c3GgJ7bFh18UDNWmZ1F0lTeWowHPzSQ4",
     "region": "US"
   },
   {
     "id": "9cdb435a-e25c-cbf3-8e28-a830db9ba950",
     "title": "Super Mario World 2 - Yoshi's Island",
-    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212093&authkey=%21AObEa91hNfZr57w&width=768&height=557",
-    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212089&authkey=%21AMSo3_WIRd1UqPg&width=891&height=1024",
+    "front": "images/roms/SuperMarioWorld2YoshisIsland_front.jpg",
+    "game": "images/roms/SuperMarioWorld2YoshisIsland_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=15Eh65jnq6d0j05nQWKzowbsDVrRpuDxH",
     "region": "US"
   },
   {
     "id": "045a71b2-96f4-17d8-7bfb-82d7f0f74d12",
     "title": "Final Fantasy V",
-    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212098&authkey=%21APQZ_asZHuzsnYA&width=768&height=557",
-    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212096&authkey=%21ACa-uHndos6MuqI&width=891&height=1024",
+    "front": "images/roms/FinalFantasyV_front.jpg",
+    "game": "images/roms/FinalFantasyV_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1yGmpdwF5ZDBku7WCbXdAgAwohX-LW8Gn",
     "region": "US"
   },
   {
     "id": "2768b958-e469-a2fb-7928-8e0dd967b0c8",
     "title": "Donkey Kong Country 2 - Diddy's Kong Quest",
-    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212099&authkey=%21AHcHRsYG2IknPKc&width=768&height=557",
-    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212087&authkey=%21AD7UAfukzSTrprk&width=1040&height=798",
+    "front": "images/roms/DonkeyKongCountry2DiddysKongQuest_front.jpg",
+    "game": "images/roms/DonkeyKongCountry2DiddysKongQuest_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1VMO9-XrTi5a0_js-W4wjScWsnNERI5Kj",
     "region": "US"
   },
   {
     "id": "870a0722-a180-ed05-607f-d51ef3673234",
     "title": "Contra III - The Alien Wars",
-    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212084&authkey=%21ACReqZHF69Sk8Co&width=768&height=557",
-    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212083&authkey=%21ABJ15OtULKA1s1A&width=891&height=1024",
+    "front": "images/roms/ContraIIITheAlienWars_front.jpg",
+    "game": "images/roms/ContraIIITheAlienWars_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1EzOC7niGTHB1KCFPpOnMUcOlGS2aEo3j",
     "region": "US"
   },
   {
     "id": "eec9c44e-8d5a-c4e9-9dfa-e96aeb063144",
     "title": "Teenage Mutant Ninja Turtles IV - Turtles in Time",
-    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212095&authkey=%21AIBf2AQr-k7R6Cc&width=768&height=557",
-    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212092&authkey=%21AFkGu1zAlorql48&width=891&height=1024",
+    "front": "images/roms/TeenageMutantNinjaTurtlesIVTurtlesinTime_front.jpg",
+    "game": "images/roms/TeenageMutantNinjaTurtlesIVTurtlesinTime_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1m5PA8f0bXnG6IaAOTYC4VBrXRpSW5c2r",
     "region": "US"
   },
   {
     "id": "7838a808-34a3-70c4-369c-ead26d60c007",
     "title": "Final Fantasy III",
-    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212091&authkey=%21APuBOt8UvILy-ds&width=768&height=557",
-    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212090&authkey=%21ACmYQBDZ08s6U34&width=1040&height=836",
+    "front": "images/roms/FinalFantasyIII_front.jpg",
+    "game": "images/roms/FinalFantasyIII_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1OnN7k8V8I2f1l9MhSLjYtCh53iEFldV-",
     "region": "US"
   },
   {
     "id": "12586d93-095c-91cd-fb6b-0cce01a2d4d4",
     "title": "Mortal Kombat 3",
-    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212078&authkey=%21AEjdcf7nLVSZfo4&width=768&height=557",
-    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212106&authkey=%21AHDPCiFDSDNl-Uo&width=891&height=1024",
+    "front": "images/roms/MortalKombat3_front.jpg",
+    "game": "images/roms/MortalKombat3_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1D10lHDxgEWmvcbemS5RK_eMuppaG1piO",
     "region": "US"
   },
   {
     "id": "1b817be3-0455-2778-c0ef-13240b54f3f7",
     "title": "Aladdin",
-    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212082&authkey=%21AEsTWtrmHgPwhgE&width=768&height=557",
-    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212102&authkey=%21ANdKo_ORUYLyxpQ&width=891&height=1024",
+    "front": "images/roms/Aladdin_front.jpg",
+    "game": "images/roms/Aladdin_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1S50qHwESakKJCHHE0AYpsbi05lK20kEf",
     "region": "US"
   },
   {
     "id": "98e79a07-f1ce-8564-8a17-d73c67cbf2be",
     "title": "Super Mario RPG - Legend of the Seven Stars",
-    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212116&authkey=%21ALLAhklI9ZTgti0&width=768&height=557",
-    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212117&authkey=%21AEFYMxgsil_zhk4&width=891&height=1024",
+    "front": "images/roms/SuperMarioRPGLegendoftheSevenStars_front.jpg",
+    "game": "images/roms/SuperMarioRPGLegendoftheSevenStars_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1CvKiFp1NUGwxNolOlmkX-Xt-DxDaks93",
     "region": "US"
   },
   {
     "id": "af6ff215-488a-434a-912e-2549fbcfd0b6",
     "title": "Mega Man X 3",
-    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212110&authkey=%21AEGKv72rlydcV6A&width=768&height=557",
-    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212081&authkey=%21ACIZEMZOgjq54h8&width=891&height=1024",
+    "front": "images/roms/MegaManX3_front.jpg",
+    "game": "images/roms/MegaManX3_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1CxVwgkWumnHKtvAo0jFK4W1EeXlWH0vJ",
     "region": "US"
   },
   {
     "id": "c7243dd4-e064-cab0-b705-755a2aa01e0b",
     "title": "Donkey Kong Country 3 - Dixie Kong's Double Trouble",
-    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212119&authkey=%21AJ5O3AMtf7Az4Ro&width=768&height=557",
-    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212120&authkey=%21ALshFN2wwwNRXzE&width=891&height=1024",
+    "front": "images/roms/DonkeyKongCountry3DixieKongsDoubleTrouble_front.jpg",
+    "game": "images/roms/DonkeyKongCountry3DixieKongsDoubleTrouble_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1qH9hA-sys0qY2QPErA_Xciqjsf12YvsM",
     "region": "US"
   },
   {
     "id": "dd84a990-aaf6-6720-5aee-725fb4f037a1",
     "title": "Star Fox 2",
-    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212118&authkey=%21AF9KsiWIkUIeiW8&width=768&height=557",
-    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212121&authkey=%21AGcjLTMd2CvAXWw&width=891&height=1024",
+    "front": "images/roms/StarFox2_front.jpg",
+    "game": "images/roms/StarFox2_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1F3YK4iM68fy9aq6Q3nmpXH6AOpxNMj63",
     "region": "US"
   },
   {
     "id": "43436967-b453-55ad-ee73-f0ed1ff4485c",
     "title": "Ultimate Mortal Kombat 3",
-    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212123&authkey=%21AEyoqGZF1Y0pMRg&width=768&height=557",
-    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212125&authkey=%21ALRkjNiu1YWTV1g&width=891&height=1024",
+    "front": "images/roms/UltimateMortalKombat3_front.jpg",
+    "game": "images/roms/UltimateMortalKombat3_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1JvvhEwJha5Y81_V__U8HYzt9zGqrdTuB",
     "region": "US"
   },
   {
     "id": "b5f3a0d4-8975-6371-0ef2-69698a7c98a4",
     "title": "Secret of Mana",
-    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212122&authkey=%21AHKumiAYWFM_oJM&width=768&height=557",
-    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212124&authkey=%21ACPFXTxscD4Jugk&width=891&height=1024",
+    "front": "images/roms/SecretofMana_front.jpg",
+    "game": "images/roms/SecretofMana_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1HHDwOzT9a8TdzhsFaFebJvMOfY8Q2YYe",
     "region": "US"
   },
   {
     "id": "78ac93f9-5010-cfe9-6c5b-737d79719cff",
     "title": "Street Fighter Alpha 2",
-    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212126&authkey=%21ALOSWnWD-QX-JYo&width=768&height=557",
-    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212127&authkey=%21AJ8C_zoRegvE18s&width=891&height=1024",
+    "front": "images/roms/StreetFighterAlpha2_front.jpg",
+    "game": "images/roms/StreetFighterAlpha2_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1bLdS12P5DIz3mjWr4jdmchA-miPd6VIU",
     "region": "US"
   },
   {
     "id": "aaf71c17-d265-a397-1062-ec0dcf74018d",
     "title": "Kirby Super Star",
-    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212131&authkey=%21AGJ31ertMWcEMoo&width=768&height=557",
-    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212132&authkey=%21AHccai0vFKaDihs&width=891&height=1024",
+    "front": "images/roms/KirbySuperStar_front.jpg",
+    "game": "images/roms/KirbySuperStar_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1sdWj4TTKD-185De41K0VvLE_nuTXPMLN",
     "region": "US"
   },
   {
     "id": "af4713cd-8fbd-48be-c3af-9eccc64efe1b",
     "title": "Super Punch-Out!!",
-    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212130&authkey=%21ABOZeE-kMvOS4io&width=768&height=557",
-    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212133&authkey=%21AB8c5zCTKudXMGE&width=891&height=1024",
+    "front": "images/roms/SuperPunchOut_front.jpg",
+    "game": "images/roms/SuperPunchOut_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1i-wDbZZGuVtR_4WwViEbEYp6FEPA1Rbn",
     "region": "US"
   },
   {
     "id": "03e76cdd-0434-266b-bd91-3ab44e506da5",
     "title": "Mega Man X 2",
-    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212136&authkey=%21AGbFcLLW8dLkK4g&width=768&height=557",
-    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212137&authkey=%21ADyJtQcPU5so1E4&width=891&height=1024",
+    "front": "images/roms/MegaManX2_front.jpg",
+    "game": "images/roms/MegaManX2_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1klir0CUOlq0YbN51-Ud45HV7JFZsjnWt",
     "region": "US"
   },
   {
     "id": "823b543d-dbb2-ea10-2a80-acc463187969",
     "title": "Killer Instinct",
-    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212135&authkey=%21ABeEhMVAieT_rqA&width=768&height=557",
-    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212134&authkey=%21ALzzfWdKYQtUejg&width=891&height=1024",
+    "front": "images/roms/KillerInstinct_front.jpg",
+    "game": "images/roms/KillerInstinct_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=18mYfZvCFH2deoJw6ffh_6cu7149JJ-Ji",
     "region": "US"
   },
   {
     "id": "be3f6d0e-5840-b450-4fab-d733d07ac68b",
     "title": "Top Gear",
-    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212139&authkey=%21AF6n95rCETjcSao&width=768&height=557",
-    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212141&authkey=%21AJo_a1Z9zDHJoY0&width=891&height=1024",
+    "front": "images/roms/TopGear_front.jpg",
+    "game": "images/roms/TopGear_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1-tTX3mniHei0uqjddEsljDQP43FCb4nO",
     "region": "US"
   },
   {
     "id": "347a5c28-69c9-f6ab-19b6-e0172a60bc3e",
     "title": "Super Castlevania IV",
-    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212138&authkey=%21AL2xzgKepUp_oJ8&width=768&height=557",
-    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212140&authkey=%21AChsM32xp13GDzE&width=891&height=1024",
+    "front": "images/roms/SuperCastlevaniaIV_front.jpg",
+    "game": "images/roms/SuperCastlevaniaIV_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1lin0DDNKsdfRmOwYNPJvdfxbsMifNYeM",
     "region": "US"
   },
   {
     "id": "b1192d32-8229-92ba-f283-472030391437",
     "title": "Super Street Fighter II - The New Challengers",
-    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212146&authkey=%21ANvrxARWxI5uUBs&width=768&height=557",
-    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212147&authkey=%21ADCTlstzOeCHDJA&width=891&height=1024",
+    "front": "images/roms/SuperStreetFighterIITheNewChallengers_front.jpg",
+    "game": "images/roms/SuperStreetFighterIITheNewChallengers_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1K3P9osHEoPW-VD0jbOqVJNsUSjtA5z-D",
     "region": "US"
   },
   {
     "id": "4f4b63e4-c9a9-2c02-7070-d9539bb4a08c",
     "title": "Castlevania - Dracula X",
-    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212143&authkey=%21ACnjtXLFOLrG7S8&width=768&height=557",
-    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212144&authkey=%21ABUJ4cWri-m3Fbo&width=891&height=1024",
+    "front": "images/roms/CastlevaniaDraculaX_front.jpg",
+    "game": "images/roms/CastlevaniaDraculaX_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1etv3FZlGm-ShvExpLzW7614vQtkpcgjI",
     "region": "US"
   },
   {
     "id": "646cca4f-4858-e497-d325-54384acc7414",
     "title": "Earthbound",
-    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212149&authkey=%21AHya3vA9A4_tSdI&width=768&height=557",
-    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212148&authkey=%21ABH7XvVskO3rVyk&width=891&height=1024",
+    "front": "images/roms/Earthbound_front.jpg",
+    "game": "images/roms/Earthbound_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1Sos5GZCpeNSxuDWsdU9LvH0m_MghE7Vi",
     "region": "US"
   },
   {
     "id": "a72ad462-6674-5b7c-08d8-236736cc08f2",
     "title": "Super Bomberman 5",
-    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212100&authkey=%21AEM9Aui13KDydvo&width=768&height=1402",
-    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212097&authkey=%21AL6okNqsmi4OyIA&width=738&height=1024",
+    "front": "images/roms/SuperBomberman5_front.jpg",
+    "game": "images/roms/SuperBomberman5_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=11JvmMz-WKx-cSuLQT4FePPy8ropSfz8P",
     "region": "JP"
   },
   {
     "id": "1d3c33d6-4632-9c5a-fef7-15a4e73b3c3f",
     "title": "Super Bomberman 4",
-    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212128&authkey=%21AO26SA3niT_QrFQ&width=768&height=1402",
-    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212129&authkey=%21ADKgfwijK2I134s&width=738&height=1024",
+    "front": "images/roms/SuperBomberman4_front.jpg",
+    "game": "images/roms/SuperBomberman4_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1q2Ag6UQHdmosWL_YNdunnnii9o_O0YAY",
     "region": "JP"
   },
   {
     "id": "139f8e6f-de3d-8b94-8f50-482845eaefc0",
     "title": "Dragon Quest I & II",
-    "front": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212142&authkey=%21AD0iWXte-hN4cG8&width=768&height=1052",
-    "game": "https://onedrive.live.com/embed?resid=3F8E5CD1B29AA4D2%212145&authkey=%21ADhdzGWlba60io0&width=645&height=1024",
+    "front": "images/roms/DragonQuestI&II_front.jpg",
+    "game": "images/roms/DragonQuestI&II_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1hk4ZWaj5RgaGdIzDauGkT13WBH_rxERL",
+    "region": "JP"
+  },
+  {
+    "id": "739a4974-5de7-4fb2-70f1-8aa754c2be49",
+    "title": "Dragon Quest III - Soshite Densetsu he...",
+    "front": "images/roms/DragonQuestIIISoshiteDensetsuhe_front.jpg",
+    "game": "images/roms/DragonQuestIIISoshiteDensetsuhe_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1IclnqcxogoxmsGH90jgFA-unUNjY3lfx",
+    "region": "JP"
+  },
+  {
+    "id": "34b805a5-d911-81f0-0af4-c9845de713b5",
+    "title": "Dragon Ball Z - Super Saiya Densetsu",
+    "front": "images/roms/DragonBallZSuperSaiyaDensetsu_front.jpg",
+    "game": "images/roms/DragonBallZSuperSaiyaDensetsu_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1vgrLPi4Q6-igbKXdr6XNI5BlghUcYPuI",
     "region": "JP"
   }
 ]

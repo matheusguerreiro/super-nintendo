@@ -6,8 +6,8 @@ const Form = ({ onCreateRom }) => {
   const [newRom, setNewRom] = useState({
     id: uuid(),
     title: "",
-    front: "",
-    game: "",
+    front: "images/roms/_front.jpg",
+    game: "images/roms/_game.jpg",
     rom: "",
     region: ""
   });
@@ -25,8 +25,8 @@ const Form = ({ onCreateRom }) => {
     let rom = {
       id: newRom.id,
       title: newRom.title.trim(),
-      front: newRom.front.trim(),
-      game: newRom.game.trim(),
+      front: `images/roms/${newRom.title.trim().replace(/\s+/g, '').replace(/-/g, '').replace(/\./g, '')}_front.jpg`,
+      game: `images/roms/${newRom.title.trim().replace(/\s+/g, '').replace(/-/g, '').replace(/\./g, '')}_game.jpg`,
       rom: transformLink(newRom.rom),
       region: newRom.region
     };
@@ -36,8 +36,8 @@ const Form = ({ onCreateRom }) => {
     setNewRom({
       id: uuid(),
       title: "",
-      front: "",
-      game: "",
+      front: "images/roms/_front.jpg",
+      game: "images/roms/_game.jpg",
       rom: "",
       region: ""
     });
