@@ -264,6 +264,22 @@
     "region": "US"
   },
   {
+    "id": "bc2f85f4-f2f2-d5a6-2f68-040b30a1cfa2",
+    "title": "Mortal Kombat II",
+    "front": "images/roms/MortalKombatII_front.jpg",
+    "game": "images/roms/MortalKombatII_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1h20JOdqkYpRnVWPjndSpzsXcianwiWXe",
+    "region": "US"
+  },
+  {
+    "id": "982ad832-3342-4b26-92f4-2836bb6b3bda",
+    "title": "Final Fight 3",
+    "front": "images/roms/FinalFight3_front.jpg",
+    "game": "images/roms/FinalFight3_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1U6Rx7GpZwmCqc80Pl02nW8dACjSLBGwJ",
+    "region": "US"
+  },
+  {
     "id": "a72ad462-6674-5b7c-08d8-236736cc08f2",
     "title": "Super Bomberman 5",
     "front": "images/roms/SuperBomberman5_front.jpg",
