@@ -336,6 +336,14 @@
     "region": "US"
   },
   {
+    "id": "1821775e-8e8f-2e74-74eb-0ea28c873070",
+    "title": "Super Bomberman",
+    "front": "images/roms/SuperBomberman_front.jpg",
+    "game": "images/roms/SuperBomberman_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1tnzIjkWOSveyE4UeD4lfuDun-1ZlPyN5",
+    "region": "US"
+  },
+  {
     "id": "2733a7f0-39ba-9743-a610-829b935c6b45",
     "title": "Seiken Densetsu 3",
     "front": "images/roms/SeikenDensetsu3_front.jpg",
@@ -389,6 +397,30 @@
     "front": "images/roms/DragonQuestVIMaboroshinoDaichi_front.jpg",
     "game": "images/roms/DragonQuestVIMaboroshinoDaichi_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1au63T-bHidd1wd_Z4Xv7s48Dk3YDnvA5",
+    "region": "JP"
+  },
+  {
+    "id": "f8c5e674-9fcb-b511-a229-ab7484311b7f",
+    "title": "Dragon Quest V - Tenkuu no Hanayome",
+    "front": "images/roms/DragonQuestVTenkuunoHanayome_front.jpg",
+    "game": "images/roms/DragonQuestVTenkuunoHanayome_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1y9M_kxdABmthnI2BbsxwzqJBekvUnPcH",
+    "region": "JP"
+  },
+  {
+    "id": "a93589ee-c3b7-4ea1-06a7-c559d435e725",
+    "title": "Dragon Ball Z - Super Butouden 3",
+    "front": "images/roms/DragonBallZSuperButouden3_front.jpg",
+    "game": "images/roms/DragonBallZSuperButouden3_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1amWg6mPHq-W5I-9NLPig0BOJY8cHaBiB",
+    "region": "JP"
+  },
+  {
+    "id": "34f7e5e8-4cb8-177f-a212-6ee6bbd6cfc7",
+    "title": "Mickey to Donald - Magical Adventure 3",
+    "front": "images/roms/MickeytoDonaldMagicalAdventure3_front.jpg",
+    "game": "images/roms/MickeytoDonaldMagicalAdventure3_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1cqXo0TdigUwTlmtWLZ8U0akyi_-HQx9n",
     "region": "JP"
   }
 ]
