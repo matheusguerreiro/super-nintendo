@@ -352,6 +352,54 @@
     "region": "US"
   },
   {
+    "id": "523c94d3-66a6-9e24-456d-22004b94257d",
+    "title": "Kirby's Dream Land 3",
+    "front": "images/roms/KirbysDreamLand3_front.jpg",
+    "game": "images/roms/KirbysDreamLand3_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1n3VZwxez0KJGpfVPePDt8uTgS98A_JC9",
+    "region": "US"
+  },
+  {
+    "id": "306c6d0a-6cba-6f88-f02d-67afaef64f3d",
+    "title": "Mortal Kombat",
+    "front": "images/roms/MortalKombat_front.jpg",
+    "game": "images/roms/MortalKombat_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1dBxTEbswF1kw1JJefZzOEEU-QRLd_oXP",
+    "region": "US"
+  },
+  {
+    "id": "7a498d73-c3a5-9138-a4e3-d3221a7532e4",
+    "title": "Final Fight",
+    "front": "images/roms/FinalFight_front.jpg",
+    "game": "images/roms/FinalFight_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1X0GdhTQD5horDKtTKY3yPGg-ulFv-lfQ",
+    "region": "US"
+  },
+  {
+    "id": "1fce74c3-e2d0-0add-2608-d75b45e76de0",
+    "title": "Final Fantasy II",
+    "front": "images/roms/FinalFantasyII_front.jpg",
+    "game": "images/roms/FinalFantasyII_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1i3V0bCXFaK8jJKZF1VkAEGRGIN_djaEr",
+    "region": "US"
+  },
+  {
+    "id": "360609f7-1257-66f8-c2bb-089904109362",
+    "title": "Romancing SaGa 3",
+    "front": "images/roms/RomancingSaGa3_front.jpg",
+    "game": "images/roms/RomancingSaGa3_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1js50CrqG6EMjC0auYGvhby1lYR1jlBvk",
+    "region": "US"
+  },
+  {
+    "id": "71d82e8f-eefe-10a7-415a-647674f02061",
+    "title": "Top Gear 2",
+    "front": "images/roms/TopGear2_front.jpg",
+    "game": "images/roms/TopGear2_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1SMEaQVPeWpSFUQJ-ftQNR-SrM9_xfX6Z",
+    "region": "US"
+  },
+  {
     "id": "2733a7f0-39ba-9743-a610-829b935c6b45",
     "title": "Seiken Densetsu 3",
     "front": "images/roms/SeikenDensetsu3_front.jpg",
