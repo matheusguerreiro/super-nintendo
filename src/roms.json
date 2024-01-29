@@ -19,7 +19,7 @@
     "id": "40c9c540-6592-ecd0-0064-b6aec35428b9",
     "title": "Super Mario Kart",
     "front": "images/roms/SuperMarioKart_front.jpg",
-    "game": "images/roms/SuperMarioKart_front.jpg",
+    "game": "images/roms/SuperMarioKart_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1jbLMeYrdI2v5NvVLblO5uCXCrw1EOI9T",
     "region": "US"
   },
@@ -302,6 +302,46 @@
     "game": "images/roms/SuperBomberman3_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=10kyI68XvyxEfS2GrA1L-R6nxae3d3xt_",
     "region": "US"
+  },
+  {
+    "id": "17823007-2dba-97f1-1e8d-9561c9c4f6cf",
+    "title": "Mega Man 7 VII",
+    "front": "images/roms/MegaManVII_front.jpg",
+    "game": "images/roms/MegaManVII_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=13XhKZTRLZV4H8qRQWgGRpuoVObKpJ7LT",
+    "region": "US"
+  },
+  {
+    "id": "8b0fd8cc-7f7f-3bfb-0823-0757cd5e0e4b",
+    "title": "Zombies Ate My Neighbors",
+    "front": "images/roms/ZombiesAteMyNeighbors_front.jpg",
+    "game": "images/roms/ZombiesAteMyNeighbors_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1Ah9s0i3BTiDsTeDTC6juJ5AjpXq2OoP0",
+    "region": "US"
+  },
+  {
+    "id": "4de432fb-479a-666c-3f4e-1298d9425313",
+    "title": "Doom",
+    "front": "images/roms/Doom_front.jpg",
+    "game": "images/roms/Doom_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1Hz-QEN4Ory8CBssYoiNv985pVMb3OQXv",
+    "region": "US"
+  },
+  {
+    "id": "ba4ea047-44d8-f761-0c8f-ac1e421278eb",
+    "title": "X-Men - Mutant Apocalypse",
+    "front": "images/roms/XMenMutantApocalypse_front.jpg",
+    "game": "images/roms/XMenMutantApocalypse_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1so1PIog6AP325vq2RifZu8xlh940l6w2",
+    "region": "US"
+  },
+  {
+    "id": "2733a7f0-39ba-9743-a610-829b935c6b45",
+    "title": "Seiken Densetsu 3",
+    "front": "images/roms/SeikenDensetsu3_front.jpg",
+    "game": "images/roms/SeikenDensetsu3_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1sDoeBe7_NuzEaGt7wGmb9XK9LQ5ws52p",
+    "region": "JP"
   },
   {
     "id": "a72ad462-6674-5b7c-08d8-236736cc08f2",
