@@ -344,6 +344,14 @@
     "region": "US"
   },
   {
+    "id": "eab1173e-75d6-549b-795f-75eb9e450b46",
+    "title": "Street Fighter II - The World Warrior",
+    "front": "images/roms/StreetFighterIITheWorldWarrior_front.jpg",
+    "game": "images/roms/StreetFighterIITheWorldWarrior_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=10vukswvB2K8iyIyHXkn8LsPt4bV8QCnp",
+    "region": "US"
+  },
+  {
     "id": "2733a7f0-39ba-9743-a610-829b935c6b45",
     "title": "Seiken Densetsu 3",
     "front": "images/roms/SeikenDensetsu3_front.jpg",
@@ -422,13 +430,5 @@
     "game": "images/roms/MickeytoDonaldMagicalAdventure3_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1cqXo0TdigUwTlmtWLZ8U0akyi_-HQx9n",
     "region": "JP"
-  },
-  {
-    "id": "eab1173e-75d6-549b-795f-75eb9e450b46",
-    "title": "Street Fighter II - The World Warrior",
-    "front": "images/roms/StreetFighterIITheWorldWarrior_front.jpg",
-    "game": "images/roms/StreetFighterIITheWorldWarrior_game.jpg",
-    "rom": "https://drive.google.com/uc?export=download&id=10vukswvB2K8iyIyHXkn8LsPt4bV8QCnp",
-    "region": "US"
   }
 ]
