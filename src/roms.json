@@ -400,6 +400,38 @@
     "region": "US"
   },
   {
+    "id": "e52597d6-92c9-3bd8-0ccc-53af73090704",
+    "title": "Marvel Super Heroes - War of the Gems",
+    "front": "images/roms/MarvelSuperHeroesWaroftheGems_front.jpg",
+    "game": "images/roms/MarvelSuperHeroesWaroftheGems_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1n9kHUSrsRfheSKnQOmADYslZWxNOhLqu",
+    "region": "US"
+  },
+  {
+    "id": "201f5cae-1f74-6af4-a3d0-16273f64307c",
+    "title": "Dragon Ball Z - Hyper Dimension",
+    "front": "images/roms/DragonBallZHyperDimension_front.jpg",
+    "game": "images/roms/DragonBallZHyperDimension_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1pHslPRAY4-G5D20Cqeec3GZHAGuar074",
+    "region": "US"
+  },
+  {
+    "id": "d3fea57b-deac-64cd-1c21-fce2523cc22b",
+    "title": "Lion King, The",
+    "front": "images/roms/LionKingThe_front.jpg",
+    "game": "images/roms/LionKingThe_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1h37U5zsYPVkf1dXoW31Qb__3B33xeptg",
+    "region": "US"
+  },
+  {
+    "id": "8e495f36-80d0-188b-771c-3f322e738884",
+    "title": "Harvest Moon",
+    "front": "images/roms/HarvestMoon_front.jpg",
+    "game": "images/roms/HarvestMoon_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1g8iTGzH9kkcQxg-NN_80cYLByfiWNVWZ",
+    "region": "US"
+  },
+  {
     "id": "2733a7f0-39ba-9743-a610-829b935c6b45",
     "title": "Seiken Densetsu 3",
     "front": "images/roms/SeikenDensetsu3_front.jpg",
