@@ -432,6 +432,38 @@
     "region": "US"
   },
   {
+    "id": "7b9e12cd-bc2c-ad18-1a74-8e0c4db94a0c",
+    "title": "F-ZERO",
+    "front": "images/roms/FZERO_front.jpg",
+    "game": "images/roms/FZERO_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1ChGZxL04LJNebDhD_4a4Y9EbPQtws-NK",
+    "region": "US"
+  },
+  {
+    "id": "2654bf88-f82e-d615-6e08-d9851788b7c2",
+    "title": "International Superstar Soccer Deluxe",
+    "front": "images/roms/InternationalSuperstarSoccerDeluxe_front.jpg",
+    "game": "images/roms/InternationalSuperstarSoccerDeluxe_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1dCCmzguuNbnDZ73UQKcA-lnQbwsii7vz",
+    "region": "US"
+  },
+  {
+    "id": "7c620714-e271-61b7-0eab-584a15120d08",
+    "title": "Final Fight 2",
+    "front": "images/roms/FinalFight2_front.jpg",
+    "game": "images/roms/FinalFight2_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1ATo07vlXVYKO6f_M62gBbu5u4wLm8rHQ",
+    "region": "US"
+  },
+  {
+    "id": "b9c012ad-095b-0dae-1716-b4be854b9a57",
+    "title": "Super Double Dragon",
+    "front": "images/roms/SuperDoubleDragon_front.jpg",
+    "game": "images/roms/SuperDoubleDragon_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=150br1nQv-5hYRFvGRPfKvYHTZH-2-fCP",
+    "region": "US"
+  },
+  {
     "id": "2733a7f0-39ba-9743-a610-829b935c6b45",
     "title": "Seiken Densetsu 3",
     "front": "images/roms/SeikenDensetsu3_front.jpg",
