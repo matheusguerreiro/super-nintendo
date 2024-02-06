@@ -464,6 +464,38 @@
     "region": "US"
   },
   {
+    "id": "8f3ea770-f6fa-5f40-92bf-b51ba4ea0c04",
+    "title": "Simpsons, The - Bart's Nightmare",
+    "front": "images/roms/SimpsonsTheBartsNightmare_front.jpg",
+    "game": "images/roms/SimpsonsTheBartsNightmare_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1Ys66AzBCqeLf_QKEY74mL2nR0l4RITBK",
+    "region": "US"
+  },
+  {
+    "id": "1f775f16-1e2f-0999-d4d6-b83c1db464ae",
+    "title": "Terranigma",
+    "front": "images/roms/Terranigma_front.jpg",
+    "game": "images/roms/Terranigma_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=10iYq0Y281QqPev4LQOdHlQQ8NzuEBS8l",
+    "region": "US"
+  },
+  {
+    "id": "93806bf7-15e3-c8a7-1187-aca7f94f6445",
+    "title": "Spider-Man & Venom - Maximum Carnage",
+    "front": "images/roms/SpiderMan&VenomMaximumCarnage_front.jpg",
+    "game": "images/roms/SpiderMan&VenomMaximumCarnage_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=19PXivzVF7sLDd_x9ej8_Q-mcv1D463-Y",
+    "region": "US"
+  },
+  {
+    "id": "1c189ae2-f64d-8678-6424-da0cac32ef38",
+    "title": "Earthworm Jim",
+    "front": "images/roms/EarthwormJim_front.jpg",
+    "game": "images/roms/EarthwormJim_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1_WkXUHUOxus0iiFXW5hmUbbnPN7jmEvj",
+    "region": "US"
+  },
+  {
     "id": "2733a7f0-39ba-9743-a610-829b935c6b45",
     "title": "Seiken Densetsu 3",
     "front": "images/roms/SeikenDensetsu3_front.jpg",
