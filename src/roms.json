@@ -560,6 +560,70 @@
     "region": "US"
   },
   {
+    "id": "dfac78e4-eaf8-2d08-213c-533045447d87",
+    "title": "Tales of Phantasia",
+    "front": "images/roms/TalesofPhantasia_front.jpg",
+    "game": "images/roms/TalesofPhantasia_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1ljt7WcUv1CnK88Z95sbh0KQjV2mRf8Co",
+    "region": "US"
+  },
+  {
+    "id": "589fdd24-127b-d0ba-3041-fdd2e6d6c9ff",
+    "title": "Goof Troop",
+    "front": "images/roms/GoofTroop_front.jpg",
+    "game": "images/roms/GoofTroop_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1FxNHnOScSfFSuqeu6-Jyo7f5-j8qJrg4",
+    "region": "US"
+  },
+  {
+    "id": "59824018-0fe8-9687-3fd5-6d1158bd4584",
+    "title": "Gradius III",
+    "front": "images/roms/GradiusIII_front.jpg",
+    "game": "images/roms/GradiusIII_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1m9gKDMnnbAVyC1HS-T8siGZhwgUDS2gk",
+    "region": "US"
+  },
+  {
+    "id": "ccb55780-d55f-e579-c08f-e08c19b5f193",
+    "title": "Prince of Persia",
+    "front": "images/roms/PrinceofPersia_front.jpg",
+    "game": "images/roms/PrinceofPersia_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1tNCB-4JbF0vc4HHgIkPfRer-9mBm5b1C",
+    "region": "US"
+  },
+  {
+    "id": "01fa2614-184c-6b6d-45da-01dc73196052",
+    "title": "Star Ocean",
+    "front": "images/roms/StarOcean_front.jpg",
+    "game": "images/roms/StarOcean_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1X3wt7smSI3Qgt2iYKuv3M8TpgtmiLm5M",
+    "region": "US"
+  },
+  {
+    "id": "ad24606b-e6f0-842d-da22-781ca3cf5583",
+    "title": "Batman Returns",
+    "front": "images/roms/BatmanReturns_front.jpg",
+    "game": "images/roms/BatmanReturns_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1vLplft-uiaPbbxodjlLrFtIQTcikOk3-",
+    "region": "US"
+  },
+  {
+    "id": "344eabe5-e827-94ab-7620-32e790e22b8c",
+    "title": "Wild Guns",
+    "front": "images/roms/WildGuns_front.jpg",
+    "game": "images/roms/WildGuns_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1Cai7Y0R85aPtahJRevb8ob-0bv6NXRzg",
+    "region": "US"
+  },
+  {
+    "id": "ad6e00e3-0940-c62d-30e9-41e16ed918f1",
+    "title": "Super Star Wars",
+    "front": "images/roms/SuperStarWars_front.jpg",
+    "game": "images/roms/SuperStarWars_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1ZP11X-cKuKkdcl3ph5dZB4b9NXsMxqoo",
+    "region": "US"
+  },
+  {
     "id": "2733a7f0-39ba-9743-a610-829b935c6b45",
     "title": "Seiken Densetsu 3",
     "front": "images/roms/SeikenDensetsu3_front.jpg",
