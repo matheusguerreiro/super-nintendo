@@ -624,6 +624,38 @@
     "region": "US"
   },
   {
+    "id": "a1aaf9b2-3ac7-0d73-fc78-a5d4b3adfc67",
+    "title": "Earthworm Jim 2",
+    "front": "images/roms/EarthwormJim2_front.jpg",
+    "game": "images/roms/EarthwormJim2_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1m0GIVkMIEWPtYW5neuAxsobPR0y7hR9H",
+    "region": "US"
+  },
+  {
+    "id": "8d5b9c08-104e-a64a-f4b4-afc9d9e1f99b",
+    "title": "Mighty Morphin Power Rangers - The Movie",
+    "front": "images/roms/MightyMorphinPowerRangersTheMovie_front.jpg",
+    "game": "images/roms/MightyMorphinPowerRangersTheMovie_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1pdky5iVCZnS4zAznaRf3n_RGT1fQoIW2",
+    "region": "US"
+  },
+  {
+    "id": "cab5f2fc-ed5f-6da0-b2a3-cfc511375f8a",
+    "title": "Rock N' Roll Racing",
+    "front": "images/roms/RockNRollRacing_front.jpg",
+    "game": "images/roms/RockNRollRacing_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=17nxfLYwtYEMvFh-Lk-5GoyRi_Mc_oXY3",
+    "region": "US"
+  },
+  {
+    "id": "e4b032e2-6531-bd12-28c7-f2437f93bc8f",
+    "title": "Final Fantasy - Mystic Quest",
+    "front": "images/roms/FinalFantasyMysticQuest_front.jpg",
+    "game": "images/roms/FinalFantasyMysticQuest_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1h6EopHqCWccU_EUhw1HghQ1kffq1HxYo",
+    "region": "US"
+  },
+  {
     "id": "2733a7f0-39ba-9743-a610-829b935c6b45",
     "title": "Seiken Densetsu 3",
     "front": "images/roms/SeikenDensetsu3_front.jpg",
