@@ -656,6 +656,38 @@
     "region": "US"
   },
   {
+    "id": "a634cba8-f180-6c2b-3a8d-4dd61a3b718d",
+    "title": "Captain America and The Avengers",
+    "front": "images/roms/CaptainAmericaandTheAvengers_front.jpg",
+    "game": "images/roms/CaptainAmericaandTheAvengers_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1HUOp8Qz6LQ9yH_9mbJDv-qoS09cYHEVt",
+    "region": "US"
+  },
+  {
+    "id": "82017ac5-0e0c-56be-8071-de5824e43873",
+    "title": "Captain Commando",
+    "front": "images/roms/CaptainCommando_front.jpg",
+    "game": "images/roms/CaptainCommando_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1r8UIJG1IW-aJjo4eFUT0wIc84-PHd6AH",
+    "region": "US"
+  },
+  {
+    "id": "b7170953-2c36-225d-f7f7-457df11fef03",
+    "title": "Pac-Man 2 - The New Adventures",
+    "front": "images/roms/PacMan2TheNewAdventures_front.jpg",
+    "game": "images/roms/PacMan2TheNewAdventures_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1UDu3qnBBKWWS9MvWM_mjRSdjjjR4wkbd",
+    "region": "US"
+  },
+  {
+    "id": "1f03eab9-deda-b308-5607-1e3fb1c37126",
+    "title": "Adventures of Batman & Robin, The",
+    "front": "images/roms/AdventuresofBatman&RobinThe_front.jpg",
+    "game": "images/roms/AdventuresofBatman&RobinThe_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1aXAGFlKPNc1-LcnItiFJFHMvud0HkKu5",
+    "region": "US"
+  },
+  {
     "id": "2733a7f0-39ba-9743-a610-829b935c6b45",
     "title": "Seiken Densetsu 3",
     "front": "images/roms/SeikenDensetsu3_front.jpg",
