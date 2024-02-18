@@ -687,6 +687,63 @@
     "rom": "https://drive.google.com/uc?export=download&id=1aXAGFlKPNc1-LcnItiFJFHMvud0HkKu5",
     "region": "US"
   },
+
+  {
+    "id": "96a83d12-1fca-8f74-d86f-296cb665b929",
+    "title": "Aero Fighters",
+    "front": "images/roms/AeroFighters_front.jpg",
+    "game": "images/roms/AeroFighters_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1TvjB3zg26v9KIqtdPpl4ODW9BTlFgmal",
+    "region": "US"
+  },
+  {
+    "id": "ef9401f5-dba2-6d16-2b2b-dad44f390405",
+    "title": "Sim City",
+    "front": "images/roms/SimCity_front.jpg",
+    "game": "images/roms/SimCity_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1Pvo465ETzZMbka8slhRn842ORTs2exwL",
+    "region": "US"
+  },
+  {
+    "id": "c181992d-ce62-d461-1862-2d1b7641b692",
+    "title": "Illusion of Gaia",
+    "front": "images/roms/IllusionofGaia_front.jpg",
+    "game": "images/roms/IllusionofGaia_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1i2eFfcIDifT5re2iQRBn5ooewwDWH86u",
+    "region": "US"
+  },
+  {
+    "id": "6d6cd745-a568-b75a-f10b-d833a7c98951",
+    "title": "Super Star Wars - Return of the Jedi",
+    "front": "images/roms/SuperStarWarsReturnoftheJedi_front.jpg",
+    "game": "images/roms/SuperStarWarsReturnoftheJedi_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=17HMMjehMhhglgFtvLEgmfwXCbTXnXPnk",
+    "region": "US"
+  },
+  {
+    "id": "28bf2227-7e2c-2e91-4411-9fb7ec7b9c5f",
+    "title": "NBA Jam - Tournament Edition",
+    "front": "images/roms/NBAJamTournamentEdition_front.jpg",
+    "game": "images/roms/NBAJamTournamentEdition_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1LnlCJAz9rKKKwwFD9Cc5P1m5YYtd8Bws",
+    "region": "US"
+  },
+  {
+    "id": "12c926ac-b721-fed8-f4ae-93ec56cea0a7",
+    "title": "ActRaiser",
+    "front": "images/roms/ActRaiser_front.jpg",
+    "game": "images/roms/ActRaiser_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1gm-uX3JwLvMFLGfIVSq0ffho_4dSE3tR",
+    "region": "US"
+  },
+  {
+    "id": "e464a8a0-018c-c6a6-8eda-a97193480353",
+    "title": "Romancing SaGa 2",
+    "front": "images/roms/RomancingSaGa2_front.jpg",
+    "game": "images/roms/RomancingSaGa2_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1O5v3EZzETTADHAFtR77_XwiE2eUqIOYy",
+    "region": "US"
+  },
   {
     "id": "2733a7f0-39ba-9743-a610-829b935c6b45",
     "title": "Seiken Densetsu 3",
@@ -765,6 +822,14 @@
     "front": "images/roms/MickeytoDonaldMagicalAdventure3_front.jpg",
     "game": "images/roms/MickeytoDonaldMagicalAdventure3_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1cqXo0TdigUwTlmtWLZ8U0akyi_-HQx9n",
+    "region": "JP"
+  },
+  {
+    "id": "3dfe9e16-5100-aada-8044-d2df0ce1508e",
+    "title": "Dragon Ball Z - Super Butouden 2",
+    "front": "images/roms/DragonBallZSuperButouden2_front.jpg",
+    "game": "images/roms/DragonBallZSuperButouden2_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1KgrqL-yf4NjtQafqSx_TC_9pyHzFHusN",
     "region": "JP"
   }
 ]
