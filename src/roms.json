@@ -687,7 +687,6 @@
     "rom": "https://drive.google.com/uc?export=download&id=1aXAGFlKPNc1-LcnItiFJFHMvud0HkKu5",
     "region": "US"
   },
-
   {
     "id": "96a83d12-1fca-8f74-d86f-296cb665b929",
     "title": "Aero Fighters",
@@ -742,6 +741,110 @@
     "front": "images/roms/RomancingSaGa2_front.jpg",
     "game": "images/roms/RomancingSaGa2_game.jpg",
     "rom": "https://drive.google.com/uc?export=download&id=1O5v3EZzETTADHAFtR77_XwiE2eUqIOYy",
+    "region": "US"
+  },
+  {
+    "id": "eebf21d4-254d-3562-958f-5b3975a93d25",
+    "title": "Tetris Attack",
+    "front": "images/roms/TetrisAttack_front.jpg",
+    "game": "images/roms/TetrisAttack_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1A6AC0vDEXj9uajPrmTFNh-p5cROH_CFI",
+    "region": "US"
+  },
+  {
+    "id": "1b2ed6a2-a6f5-36b4-84b9-bf38e64133e7",
+    "title": "Secret of Evermore",
+    "front": "images/roms/SecretofEvermore_front.jpg",
+    "game": "images/roms/SecretofEvermore_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1f_qv3HQif3bNM_dmW9X9pyFaVLPM---E",
+    "region": "US"
+  },
+  {
+    "id": "34d3c702-773d-cce9-19ac-53ec49115c87",
+    "title": "Teenage Mutant Ninja Turtles - Tournament Fighters",
+    "front": "images/roms/TeenageMutantNinjaTurtlesTournamentFighters_front.jpg",
+    "game": "images/roms/TeenageMutantNinjaTurtlesTournamentFighters_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1u7hlgMAxiS8z2GRofN_wQXRG95jlyW6f",
+    "region": "US"
+  },
+  {
+    "id": "c0524783-765e-c5c6-c7a7-40750ccd02e5",
+    "title": "Breath of Fire",
+    "front": "images/roms/BreathofFire_front.jpg",
+    "game": "images/roms/BreathofFire_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1N-22dyOakDCEaIMxfTWwDqdW61mlFtIy",
+    "region": "US"
+  },
+  {
+    "id": "d414790a-87f2-0c3e-2865-074be0ab354b",
+    "title": "Lufia II - Rise of the Sinistrals",
+    "front": "images/roms/LufiaIIRiseoftheSinistrals_front.jpg",
+    "game": "images/roms/LufiaIIRiseoftheSinistrals_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1kfZH-3Az8qdsqrLxC3r4staqrnY0T-HH",
+    "region": "US"
+  },
+  {
+    "id": "2041c2dc-ed72-5daf-eb97-85a2ca4890a2",
+    "title": "Mighty Morphin Power Rangers",
+    "front": "images/roms/MightyMorphinPowerRangers_front.jpg",
+    "game": "images/roms/MightyMorphinPowerRangers_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1ZmNuAyqchH6wMncejaeDoetLMtvRdgnZ",
+    "region": "US"
+  },
+  {
+    "id": "4427263e-4fb7-124c-5347-2c34ee1f179d",
+    "title": "R-Type III - The Third Lightning",
+    "front": "images/roms/RTypeIIITheThirdLightning_front.jpg",
+    "game": "images/roms/RTypeIIITheThirdLightning_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1iyyMCvqf_lTejq9655L7jD2gsOYoYkdE",
+    "region": "US"
+  },
+  {
+    "id": "6f99ba31-73e7-73fd-917d-dc4c66d492fe",
+    "title": "Battletoads in Battlemaniacs",
+    "front": "images/roms/BattletoadsinBattlemaniacs_front.jpg",
+    "game": "images/roms/BattletoadsinBattlemaniacs_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1Ge4MOZDxeNamJXZ7pUZfd4TM0OV9VAKF",
+    "region": "US"
+  },
+  {
+    "id": "98f57c85-7624-c5cd-a375-08d50f57f2b3",
+    "title": "Bahamut Lagoon",
+    "front": "images/roms/BahamutLagoon_front.jpg",
+    "game": "images/roms/BahamutLagoon_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1pWC3N_BTTgafbHtnEwSxW1QaOFcjF_ZJ",
+    "region": "US"
+  },
+  {
+    "id": "64581d04-81f0-1f93-3511-466f35ec4ec9",
+    "title": "Jurassic Park",
+    "front": "images/roms/JurassicPark_front.jpg",
+    "game": "images/roms/JurassicPark_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1xMUrsjUfY_s6q3S3AVUGOalvIefzvPii",
+    "region": "US"
+  },
+  {
+    "id": "36b0a00e-1981-a532-fe97-5480edcc0880",
+    "title": "Kirby's Dream Course",
+    "front": "images/roms/KirbysDreamCourse_front.jpg",
+    "game": "images/roms/KirbysDreamCourse_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1OSyf11kRXrRwB9OHkUZK33U0e0eXSD6M",
+    "region": "US"
+  },
+  {
+    "id": "522a87e5-e293-aa4c-1d1c-b7d49a700d0a",
+    "title": "Super Star Wars - The Empire Strikes Back",
+    "front": "images/roms/SuperStarWarsTheEmpireStrikesBack_front.jpg",
+    "game": "images/roms/SuperStarWarsTheEmpireStrikesBack_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=12fYAvIK4Sg5upl0sWRQlmVVwnUyB_DWS",
+    "region": "US"
+  },
+  {
+    "id": "cccd64c5-d0b4-44fb-2732-ca5d08d0bd81",
+    "title": "Romancing SaGa",
+    "front": "images/roms/RomancingSaGa_front.jpg",
+    "game": "images/roms/RomancingSaGa_game.jpg",
+    "rom": "https://drive.google.com/uc?export=download&id=1MGt8EW1tSHEvmV9C_pnHB1eBoRI-SwfT",
     "region": "US"
   },
   {
